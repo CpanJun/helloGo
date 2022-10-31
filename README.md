@@ -16,11 +16,11 @@
 
     ```shell
     # 安装完毕后, 通过go version 确认是否安装成功.
-    go version
+    $ go version
     go version go1.15.2 darwin/amd64 # 正确返回版本信息即可
     ```
 ## 运行
 ```shell
-go run helloWorld.go
+$ go run helloWorld.go
 Hello, World!
 ```
