@@ -5,8 +5,6 @@
 设备: MacBook Air(M1, 2020)
 
 系统: macOS Monterey 12.6
-
-内容: 16GB
 ## 环境安装
  从[官方网站](https://go.dev/dl/)下载GO语言安装包:
 
